@@ -18,8 +18,16 @@ action_id; linked problem/goals; options considered; selected decision; evidence
 ## Lifecycle
 Frame → investigate → define goals/constraints → generate options → deliberate → decide/authorize → plan → execute → observe → evaluate → adapt/close. Re-entry and cancellation are supported; stage gates vary with risk.
 
+## Root interfaces and boundaries
+
+- WisdomOntology owns canonical semantic definitions for agents, goals, decisions, actions and outcomes.
+- WisdomEpistemology owns evidence, claim status, provenance and uncertainty.
+- WisdomAxiology owns normative values, rights, ethical criteria and impact evaluation.
+- WisdomTeleology owns purpose, mission, ultimate ends and long-range coherence criteria.
+- WisdomPraxeology owns operational goals, deliberation, decisions, authorization, plans, execution, outcomes and feedback.
+
 ## Interfaces
-Ontology provides identifiers for agents, goals, actions, systems and outcomes. Epistemology provides evidence and uncertainty. Axiology provides criteria, trade-offs and impact review. Operational branches implement workflows and must preserve decision/action traceability.
+Ontology provides canonical identifiers for agents, goals, actions, systems and outcomes. Epistemology provides evidence and uncertainty. Axiology provides normative criteria, trade-offs and impact review. Teleology provides purpose and long-range alignment context. Operational branches implement workflows and must preserve decision/action traceability.
 
 ## Controls
 Human authorization for high-impact actions; least authority; auditable events; risk-based approvals; safe-stop and rollback where feasible; change tracking; outcome monitoring; accessible explanation and appeal for affected parties.

@@ -9,7 +9,7 @@ Define a disciplined framework for converting understanding and values into purp
 Problem framing; goals and constraints; options; deliberation and decisions; planning; coordination; execution; monitoring; outcomes; unintended effects; learning and corrective action.
 
 ## Boundaries
-Ontology defines action-related entities; Epistemology evaluates supporting claims and uncertainty; Axiology supplies values and criteria. This root integrates these inputs into accountable action but does not own their definitions.
+Ontology defines canonical action-related entities and concepts; Epistemology evaluates supporting claims, evidence and uncertainty; Axiology supplies normative values, rights and criteria; Teleology supplies purpose hierarchy, ultimate ends and long-range direction. This root integrates these inputs into accountable operational action but does not own their definitions, epistemic judgments, value standards or ultimate ends.
 
 ## Principles
 1. Actions have explicit goals, scope, owner, authority, constraints and completion criteria.
