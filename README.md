@@ -6,7 +6,7 @@ A framework for translating knowledge and values into deliberation, decisions, a
 
 ## Position in the architecture
 
-This repository is one of four foundational roots under **WisdomCore (Layer 0)**. It contributes to the Wisdom Intercessor trunk and informs all eight operational branches and the Wis · Dom · Land realm experience. It is not an operational branch or a standalone commercial product.
+This repository is one of five approved foundational roots under **WisdomCore (Layer 0)**. The five roots are WisdomOntology, WisdomEpistemology, WisdomAxiology, WisdomTeleology, and WisdomPraxeology. It contributes to the Wisdom Intercessor trunk and informs all eight operational branches and the Wis · Dom · Land realm experience. It is not an operational branch or a standalone commercial product.
 
 ## Scope
 - کنش، تصمیم و اختیار
@@ -21,6 +21,10 @@ This repository is one of four foundational roots under **WisdomCore (Layer 0)**
 - اعتبار دانش و شواهد (WisdomEpistemology)
 - تعیین معیارهای ارزش (WisdomAxiology)
 
+- Purpose hierarchy, ultimate ends and mission direction (WisdomTeleology)
+- Canonical entity/concept definitions (WisdomOntology)
+- Evidence and epistemic status (WisdomEpistemology)
+- Normative values, rights and criteria (WisdomAxiology)
 ## Repository status
 
 - Status: **Foundation baseline — v0.1.0 proposal**
